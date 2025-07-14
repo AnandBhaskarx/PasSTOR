@@ -1,0 +1,3 @@
+# Sensitive environment variables
+.env
+node_modules
